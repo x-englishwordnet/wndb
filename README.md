@@ -8,3 +8,6 @@ This provides ZIP or TAR.GZ files of the Extended WordNet files in [WNDB](https:
 
 Downloadable [here](https://x-englishwordnet.github.io/wndb/xewn.dict.tar.gz) :
 https://x-englishwordnet.github.io/wndb/xewn.dict.tar.gz
+
+Downloadable [here](https://x-englishwordnet.github.io/wndb/xewn.zip) :
+https://x-englishwordnet.github.io/wndb/xewn.zip
