@@ -22,6 +22,6 @@ While this encoding scheme is not defined in the PWN 3.1 format, it is thought t
 
 ### compatible or seamless format
 
-This is compatible with PWN3.1 format and may be required to work with some libraries (e.g. JWI). It is thought to be a **seamless** replacement of the PWN 3.1 release provided it is not assumed lexID is limited to the [0..15] range. However new relations that are not defined in PWN 3.1 have been dropped.
+This is compatible with PWN3.1 format and may be required to work with some libraries (e.g. JWI). It is thought to be a **seamless** replacement of the PWN 3.1 release provided it is not assumed lexIDs are limited to the [0..15] range. However new relations that are not defined in PWN 3.1 have been dropped.
 
 Downloadable as  [tag.gz](https://x-englishwordnet.github.io/wndb/xewn_compat.dict.tar.gz) or  [zip](https://x-englishwordnet.github.io/wndb/xewn_compat.zip).
