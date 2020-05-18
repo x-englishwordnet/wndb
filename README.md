@@ -10,13 +10,13 @@ This project  produces a __transformed__ version of English WordNet data in the 
 
 ### new lossless extended format
 
-This provides **lossless **database files of the Xtended English WordNet in [WNDB](https://wordnet.princeton.edu/documentation/wndb5wn) format,  downloadable as  [tar.gz](https://x-englishwordnet.github.io/wndb/xewn.dict.tar.gz) or [zip](https://x-englishwordnet.github.io/wndb/xewn.zip).
+This provides **lossless** database files of the Xtended English WordNet in [WNDB](https://wordnet.princeton.edu/documentation/wndb5wn) format,  downloadable as  [tar.gz](https://x-englishwordnet.github.io/wndb/xewn.dict.tar.gz) or [zip](https://x-englishwordnet.github.io/wndb/xewn.zip).
 
 With EWN, new **types of relations** have been introduced and their ad-hoc encoding may not be recognized by some libraries (JWI) while others don't bother (NLTK).
 
 Cases in point are
-- the new '*is caused by*' relation is encoded with a '&gt;&circ;' pointer.
-- the new '*is entailed by*' relation is encoded with a '*&circ;' pointer.
+- the new '*is caused by*' relation, encoded with a '&gt;&circ;' pointer.
+- the new '*is entailed by*' relation, encoded with a '*&circ;' pointer.
 
 While this encoding scheme is not defined in the PWN 3.1 format, it is thought to be compatible with it.
 
