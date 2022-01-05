@@ -14,6 +14,8 @@ The **XEWN** series is produced by the older grinder.
 
 The **OEWN_2021** series is produced by the newer OEWNTK tool suite, which is still considered experimental.
 
+See [OEWNTK](https://github.com/oewntk)
+
 ## lossless or seamless ?
 
 ### new lossless extended format
