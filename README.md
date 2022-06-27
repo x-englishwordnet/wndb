@@ -12,7 +12,7 @@ This project  produces a version of Open English Wordnet data in the form of
 
 The **XEWN** series is produced by the older grinder.
 
-The **OEWN_2021** series is produced by the newer OEWNTK tool suite, which is still considered experimental.
+The **OEWN_2021** series is produced by the newer OEWNTK tool suite.
 
 See [OEWNTK](https://github.com/oewntk)
 
@@ -30,7 +30,7 @@ Cases in point are
 
 While this encoding scheme is not defined in the PWN 3.1 format, it is thought to be compatible with it.
 
-### compatible or seamless format
+### compatible or seamless format (oewn_2021_compat... or xewn_compat...)
 
 This is compatible with PWN3.1 format and may be required to work with some libraries (e.g. JWI). It is thought to be a **seamless** replacement of the PWN 3.1 release provided it is not assumed lexIDs are limited to the [0..15] range. However new relations that are not defined in PWN 3.1 have been dropped.
 
