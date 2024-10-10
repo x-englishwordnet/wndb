@@ -4,6 +4,10 @@
 
 # Open English Wordnet in WNDB format
 
+<p align="center">
+<img height="150"src="images/wndb.png">
+</p>
+
 This project  produces a version of Open English Wordnet data in the form of
 
 -  __wndb__ files conforming to the [WNDB standard](https://wordnet.princeton.edu/documentation/wndb5wn) 
