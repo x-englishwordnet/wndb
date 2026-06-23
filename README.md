@@ -18,9 +18,13 @@ This project  produces a version of Open English Wordnet data in the form of
 
 This provides **lossless** database files of the Open English Wordnet in [WNDB](https://wordnet.princeton.edu/documentation/wndb5wn) format. 
 
-Downloadable as 
-[tar.gz](https://x-englishwordnet.github.io/wndb/oewn_2024.dict.tar.gz) or 
-[zip](https://x-englishwordnet.github.io/wndb/oewn_2024.zip).
+Base edition downloadable as 
+[base tar.gz](https://x-englishwordnet.github.io/wndb/oewn-2026.dict.tar.gz) or 
+[base zip](https://x-englishwordnet.github.io/wndb/oewn-2026.zip).
+
+Plus edition downloadable as 
+[plus tar.gz](https://x-englishwordnet.github.io/wndb/oewn-plus-2026.dict.tar.gz) or 
+[plus zip](https://x-englishwordnet.github.io/wndb/oewn-plus-2026.zip).
 
 With OEWN, new **types of relations** have been introduced and their ad-hoc encoding may not be recognized by some libraries (JWI) while others don't bother (NLTK).
 
@@ -34,9 +38,13 @@ While this encoding scheme is not defined in the PWN 3.1 format, it is thought t
 
 This is compatible with PWN3.1 format and may be required to work with some libraries (e.g. JWI). It is thought to be a **seamless** replacement of the PWN 3.1 release provided it is not assumed lexIDs are limited to the [0..15] range. However new relations that are not defined in PWN 3.1 have been dropped.
 
-Downloadable as 
-[tar.gz](https://x-englishwordnet.github.io/wndb/oewn_2024_compat.dict.tar.gz) or 
-[zip](https://x-englishwordnet.github.io/wndb/oewn_2024_compat.zip).
+Base edition downloadable as 
+[base tar.gz](https://x-englishwordnet.github.io/wndb/oewn-compat-2026.dict.tar.gz) or 
+[base zip](https://x-englishwordnet.github.io/wndb/oewn-compat-2026.zip).
+
+Plus edition downloadable as 
+[plus tar.gz](https://x-englishwordnet.github.io/wndb/oewn-compat-plus-2026.dict.tar.gz) or 
+[plus zip](https://x-englishwordnet.github.io/wndb/oewn-compat-plus-2026.zip).
 
 ## how ?
 
